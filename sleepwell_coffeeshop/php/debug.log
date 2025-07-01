@@ -1,0 +1,405 @@
+user_dashboard.php accessed at 2025-06-29 16:56:54
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 16:56:56
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: []
+
+food.php accessed at 2025-06-29 16:57:00
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 16:57:02
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":2,"name":"Avocado Toast","price":8,"quantity":1}]
+
+food.php accessed at 2025-06-29 16:57:05
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 16:57:06
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":2,"name":"Avocado Toast","price":8,"quantity":1}]
+
+food.php accessed at 2025-06-29 16:57:07
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 16:57:08
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":2,"name":"Avocado Toast","price":8,"quantity":1},{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1}]
+
+cart.php accessed at 2025-06-29 16:57:13
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":2,"name":"Avocado Toast","price":8,"quantity":1},{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1}]
+
+cart.php accessed at 2025-06-29 16:58:23
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":2,"name":"Avocado Toast","price":8,"quantity":1},{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1}]
+
+remove_from_cart.php accessed at 2025-06-29 16:58:24
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":2,"name":"Avocado Toast","price":8,"quantity":1},{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1}]
+POST Data: {"id":"2"}
+
+cart.php accessed at 2025-06-29 16:58:24
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1}]
+
+remove_from_cart.php accessed at 2025-06-29 16:58:25
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1}]
+POST Data: {"id":"1"}
+
+cart.php accessed at 2025-06-29 16:58:25
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: []
+
+food.php accessed at 2025-06-29 16:58:29
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 16:58:30
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1}]
+
+food.php accessed at 2025-06-29 16:58:32
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 16:58:33
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1},{"id":2,"name":"Avocado Toast","price":8,"quantity":1}]
+
+remove_from_cart.php accessed at 2025-06-29 16:58:35
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1},{"id":2,"name":"Avocado Toast","price":8,"quantity":1}]
+POST Data: {"id":"2"}
+
+cart.php accessed at 2025-06-29 16:58:35
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1}]
+
+user_dashboard.php accessed at 2025-06-29 16:58:36
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 16:58:38
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1}]
+
+remove_from_cart.php accessed at 2025-06-29 16:58:40
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":1,"name":"Croissant Sandwich","price":6.5,"quantity":1}]
+POST Data: {"id":"1"}
+
+cart.php accessed at 2025-06-29 16:58:40
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: []
+
+user_dashboard.php accessed at 2025-06-29 16:58:42
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 16:58:45
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: []
+
+appetizer.php accessed at 2025-06-29 16:58:48
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 16:58:49
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":9,"name":"Stuffed Mushrooms","price":7,"quantity":1}]
+
+user_dashboard.php accessed at 2025-06-29 16:58:52
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 16:58:54
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":9,"name":"Stuffed Mushrooms","price":7,"quantity":1}]
+
+remove_from_cart.php accessed at 2025-06-29 16:58:55
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":9,"name":"Stuffed Mushrooms","price":7,"quantity":1}]
+POST Data: {"id":"9"}
+
+cart.php accessed at 2025-06-29 16:58:55
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: []
+
+admin_dashboard.php accessed at 2025-06-29 17:02:59
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 2
+Account Type: admin
+Is Verified: 1
+
+admin_dashboard.php: Displaying item ID=2, name=Avocado Toast
+admin_dashboard.php: Displaying item ID=1, name=Croissant Sandwich
+admin_dashboard.php: Displaying item ID=3, name=Pasta Primavera
+admin_dashboard.php: Displaying item ID=5, name=Cappuccino
+admin_dashboard.php: Displaying item ID=4, name=Espresso
+admin_dashboard.php: Displaying item ID=6, name=Iced Latte
+admin_dashboard.php: Displaying item ID=8, name=Bruschetta
+admin_dashboard.php: Displaying item ID=7, name=Mozzarella Sticks
+admin_dashboard.php: Displaying item ID=9, name=Stuffed Mushrooms
+verify_admin.php accessed at 2025-06-29 17:03:03
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 2
+Account Type: admin
+Is Verified: 1
+POST Data: {"id":"3","action":"verify"}
+
+admin_dashboard.php accessed at 2025-06-29 17:03:03
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 2
+Account Type: admin
+Is Verified: 1
+
+admin_dashboard.php: Displaying item ID=2, name=Avocado Toast
+admin_dashboard.php: Displaying item ID=1, name=Croissant Sandwich
+admin_dashboard.php: Displaying item ID=3, name=Pasta Primavera
+admin_dashboard.php: Displaying item ID=5, name=Cappuccino
+admin_dashboard.php: Displaying item ID=4, name=Espresso
+admin_dashboard.php: Displaying item ID=6, name=Iced Latte
+admin_dashboard.php: Displaying item ID=8, name=Bruschetta
+admin_dashboard.php: Displaying item ID=7, name=Mozzarella Sticks
+admin_dashboard.php: Displaying item ID=9, name=Stuffed Mushrooms
+user_dashboard.php accessed at 2025-06-29 17:04:06
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+food.php accessed at 2025-06-29 17:04:08
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+beverage.php accessed at 2025-06-29 17:04:08
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+appetizer.php accessed at 2025-06-29 17:04:10
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 17:04:12
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: []
+
+appetizer.php accessed at 2025-06-29 17:04:14
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+beverage.php accessed at 2025-06-29 17:04:15
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+food.php accessed at 2025-06-29 17:04:16
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+beverage.php accessed at 2025-06-29 17:04:23
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+appetizer.php accessed at 2025-06-29 17:04:24
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+appetizer.php accessed at 2025-06-29 17:04:46
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+appetizer.php accessed at 2025-06-29 17:04:51
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+user_dashboard.php accessed at 2025-06-29 17:05:52
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+user_dashboard.php accessed at 2025-06-29 17:06:15
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+user_dashboard.php accessed at 2025-06-29 17:07:04
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+food.php accessed at 2025-06-29 17:07:14
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+beverage.php accessed at 2025-06-29 17:07:16
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+appetizer.php accessed at 2025-06-29 17:07:18
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+food.php accessed at 2025-06-29 17:07:19
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+user_dashboard.php accessed at 2025-06-29 17:07:20
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+food.php accessed at 2025-06-29 17:07:25
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+beverage.php accessed at 2025-06-29 17:07:26
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+appetizer.php accessed at 2025-06-29 17:07:27
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+beverage.php accessed at 2025-06-29 17:07:29
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+food.php accessed at 2025-06-29 17:07:29
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+user_dashboard.php accessed at 2025-06-29 17:07:31
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+food.php accessed at 2025-06-29 17:07:32
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+food.php accessed at 2025-06-29 17:07:33
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+beverage.php accessed at 2025-06-29 17:07:34
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 17:07:39
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":5,"name":"Cappuccino","price":4.5,"quantity":1}]
+
+user_dashboard.php accessed at 2025-06-29 17:07:41
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+
+cart.php accessed at 2025-06-29 17:07:46
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":5,"name":"Cappuccino","price":4.5,"quantity":1}]
+
+remove_from_cart.php accessed at 2025-06-29 17:07:47
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: [{"id":5,"name":"Cappuccino","price":4.5,"quantity":1}]
+POST Data: {"id":"5"}
+
+cart.php accessed at 2025-06-29 17:07:47
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+Cart: []
+
+user_dashboard.php accessed at 2025-06-29 17:07:49
+Session ID: 8k0in0k1gjmsqpl1444qjl31jn
+User ID: 1
+Account Type: user
+

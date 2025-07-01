@@ -1,0 +1,109 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body with coffee shop background */
+body {
+    font-family: 'Georgia', serif;
+    background: url('https://images.unsplash.com/photo-1495474472287-4d71bcdd2085') no-repeat center center fixed;
+    background-size: cover;
+    color: #3c2f2f;
+    min-height: 100vh;
+}
+
+/* Centered container for login/register */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+/* Login/register card */
+.card {
+    background: rgba(255, 245, 238, 0.95);
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    max-width: 450px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card h2 {
+    color: #6b4e31;
+    margin-bottom: 25px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* Tabs for login/register */
+.tabs {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 25px;
+}
+
+.tab {
+    background: #d3b7a0;
+    border: none;
+    padding: 12px 25px;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 18px;
+    transition: background 0.3s;
+}
+
+.tab.active {
+    background: #6b4e31;
+    color: white;
+}
+
+.tab:hover {
+    background: #8b6f47;
+}
+
+/* Form styles */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+input, select, button {
+    padding: 12px;
+    border: 1px solid #d3b7a0;
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: 'Georgia', serif;
+}
+
+button {
+    background: #6b4e31;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+}
+
+button:hover {
+    background: #8b6f47;
+    transform: scale(1.05);
+}
+
+/* Responsive design */
+@media (max-width: 576px) {
+    .card {
+        padding: 25px;
+        max-width: 95%;
+    }
+}
